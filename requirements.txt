@@ -1,0 +1,6 @@
+streamlit
+openai
+requests
+ffmpeg-python
+streamlit-audio-recorder
+streamlit run app.py
