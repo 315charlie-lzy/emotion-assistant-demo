@@ -2,7 +2,7 @@ import requests
 import base64
 import os
 
-API_KEY = "bce-v3/ALTAK-xjwGn7tV4WJO3MMqhoXvD/ea84768393e32f53d67296dfcf65d96dc89d1cef"
+API_KEY = "your api key"
 # 公有云 AIP 服务根地址
 BASE_URL = "https://aip.baidubce.com"
 
